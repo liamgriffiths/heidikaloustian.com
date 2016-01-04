@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Work
-permalink: /work
+permalink: /work.html
 ---
 
 # Artist Statement

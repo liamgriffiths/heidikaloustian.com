@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /bio
+permalink: /bio.html
 ---
 
 Heidi Kaloustian is a writer and visual artist. She is a recent graduate of the

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-permalink: /news
+permalink: /news.html
 ---
 
 ### 5.15
